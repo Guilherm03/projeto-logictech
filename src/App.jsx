@@ -37,7 +37,7 @@ export default function App() {
         </nav>
       </header>
       <div className="main-content">
-        <main>
+        <main className='maimg'>
           <section id="inicio">
             <h2>Início</h2>
             <p>Somos uma Startup focada em desenvolvimento de sites .</p>
@@ -45,7 +45,7 @@ export default function App() {
 
           <section id="sobre">
             <h2>Sobre</h2>
-            <p>Esta página foi criada como um exemplo de uma aplicação React moderna.</p>
+            <p>Esta página foi criada como u exemplo.</p>
           </section>
 
           <section id="contato">
