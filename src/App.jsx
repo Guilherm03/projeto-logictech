@@ -27,7 +27,7 @@ export default function App() {
     <div className="app">
       <header>
         <img src={zomis} alt="Logo" className='logo'/>
-        <h1>Bem-vindo a Logic Tech</h1>
+        <h1>Bem-vindo a LogicTech</h1>
         <nav>
           <ul>
             <li><a href="#inicio">Início</a></li>
@@ -40,7 +40,7 @@ export default function App() {
         <main>
           <section id="inicio">
             <h2>Início</h2>
-            <p>Esta é uma página web simples e moderna criada com React.</p>
+            <p>Somos uma Startup focada em desenvolvimento de sites .</p>
           </section>
 
           <section id="sobre">
